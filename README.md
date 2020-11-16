@@ -41,3 +41,47 @@ Lista de Tarefas:
 - [ ] Teste 3
 
 Colocar Imagem:
+![texto da imagem](url)
+
+Colocar Link, semelhante a imagem, sem o !:
+[texto do link](url)
+
+Criar tabela:
+Num | Nome | Nota
+---|---|---
+1 | Gustavo | 8,5
+2 | Jose | 10,0
+3 | Maria | 9
+
+Terminou a tabela
+
+Para destacar comando utilizar a craze `:
+Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScriptn
+
+Para destacar trecho de programa, abre com 3 crazes ``` e fecha com crazes ```:
+Olhar meu programa em Python
+```
+num = int(input('Digite um valor:')
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é IMPAR')
+```
+
+## Colocar emojo, utilizar ":nome do emojo:"
+Olá, pequeno Gafanhoto 
+:vulcan_salute para 🖖 
+
+github.com/ikatyang
+https://github.com/ikatyang/emoji-cheat-sheet
+
+## Para colocar no titulo:
+emojipedia.org
+selecionar e copia
+
+Sitação e marcar pessoal:
+@
+
+
+
+
